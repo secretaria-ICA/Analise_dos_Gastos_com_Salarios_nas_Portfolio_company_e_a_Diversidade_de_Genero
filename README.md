@@ -1,7 +1,7 @@
-# Projeto-PUC
-# Análise dos gastos com salários nas portfólio company e a diversidade de gênero
-#### Aluno: [Renata Vieira](https://github.com/link_do_github)
-#### Orientadora: [Anderson Nascimento](https://github.com/link_do_github)
+# Análise_dos_Gastos_com_Salários_nas_Portfólio_Company_e_a_Diversidade_de_Gênero
+
+#### Aluno: [Renata Vieira](https://github.com/Renata-c-vieira)
+#### Orientadora: [Anderson Nascimento](https://github.com/insightds)
 
 ---
 
